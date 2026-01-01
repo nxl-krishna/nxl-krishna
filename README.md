@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Krishna Rathore</h1>
+<h1 align="center">Hi 👋,I'm Krishna Rathore</h1>
 <h3 align="center">A passionate full-stack developer,AI Engineer and lifelong learner</h3>
 
 <p align="center">
