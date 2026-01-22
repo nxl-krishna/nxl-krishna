@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Krishna Rathore</h1>
 
 <p align="center">
-  <img src="https://www.desktophut.com/images/2149_mpc-hc64_cKdQdZ30IC.jpg" alt="Krishna's Photo" width="200" />
+  <img src="https://media1.tenor.com/images/4f583e64fe4e8b723881f350bbae2fc6/tenor.gif?itemid=17098043" alt="Krishna's Photo" width="200" />
 </p>
 
 <h3 align="center">A passionate full-stack developer, AI Engineer and lifelong learner</h3>
