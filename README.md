@@ -41,7 +41,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nxl-krishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/streakstats/github-readme-streak-stats">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nxl-krishna&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?username=nxl-krishna&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
