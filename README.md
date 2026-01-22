@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/images/4f583e64fe4e8b723881f350bbae2fc6/tenor.gif?itemid=17098043" alt="Krishna's Photo" width="200" />
 </p>
 
-<h3 align="center">A passionate full-stack developer, AI Engineer and lifelong learner</h3>
+<h3 align="center">Let's kill the problems</h3>
 
 <br/>
 
