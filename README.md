@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/images/4f583e64fe4e8b723881f350bbae2fc6/tenor.gif?itemid=17098043" alt="Krishna's Photo" width="200" />
 </p>
 
-<h3 align="center">Let's kill the problems</h3>
+<h3 align="center">Let's finish the problems</h3>
 
 <br/>
 
@@ -40,9 +40,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nxl-krishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/streakstats/github-readme-streak-stats">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?username=nxl-krishna&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nxl-krishna)](https://git.io/streak-stats)
 </div>
 
 <br/>
