@@ -46,7 +46,7 @@
 
 <br/>
 
-### 🧰 Top Repositories
+  <!-- ### 🧰 Top Repositories -->
 <!-- 
 - 🔥 [**Project Name 1**](https://github.com/YOUR_USERNAME/REPO_NAME) – *A brief description of what this project does.*
 - 📦 [**Project Name 2**](https://github.com/YOUR_USERNAME/REPO_NAME) – *A brief description of what this project does.* -->
