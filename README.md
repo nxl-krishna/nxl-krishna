@@ -40,7 +40,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nxl-krishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nxl-krishna" alt="GitHub Streak" /></a>
+  
 
 </div>
 
