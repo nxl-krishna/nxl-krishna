@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋,I'm Krishna Rathore</h1>
-<h3 align="center">A passionate full-stack developer,AI Engineer and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nxl-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://www.desktophut.com/images/2149_mpc-hc64_cKdQdZ30IC.jpg" alt="Krishna's Photo" width="200" />
 </p>
+
+<h3 align="center">A passionate full-stack developer, AI Engineer and lifelong learner</h3>
 
 <br/>
 
