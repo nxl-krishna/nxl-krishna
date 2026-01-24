@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently learning: **RAG,GEN AI, DevOps**
-- 💬 Ask me about: **MERN stack, REST APIs, FULL STACK WEBDEVELOPER, AI integrations,AI Engineer**
+- 💬 Ask me about: **MERN stack, REST APIs, FULL STACK WEBDEVELOPER, AI integrations,AI Engineer,CI/CD Pipeline**
 - ⚡ Fun fact: *I love turning ideas into products that solve real-world problems.*
 
 <br/>
