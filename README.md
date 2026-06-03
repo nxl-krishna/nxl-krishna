@@ -34,15 +34,7 @@
 <br/>
 <hr/>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nxl-krishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-
-</div>
 
 <br/>
 
@@ -52,7 +44,3 @@
 - 📦 [**Project Name 2**](https://github.com/YOUR_USERNAME/REPO_NAME) – *A brief description of what this project does.* -->
 
 <br/>
-
-### 🤖 Fun GitHub Badge
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nxl-krishna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=Krishna's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
