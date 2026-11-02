@@ -89,10 +89,6 @@ A secure platform for submitting anonymous grievances with AI-powered assistance
 
 **Tech:** Next.js, TypeScript, Firebase, Gemini AI, RSA.
 
-### 🧬 MGMT & IDH-Based Glioma Analysis
-Machine learning research focused on predicting molecular biomarkers and survival outcomes in glioma patients.
-
-**Tech:** Python, Scikit-learn, XGBoost, LightGBM, Ensemble Learning.
 
 ---
 
