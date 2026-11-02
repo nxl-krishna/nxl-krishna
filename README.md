@@ -103,27 +103,6 @@ Machine learning research focused on predicting molecular biomarkers and surviva
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nxl-krishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxl-krishna&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxl-krishna&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nxl-krishna/nxl-krishna/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
 <div align="center">
 
 ### 💡 "First, solve the problem. Then, write the code."
